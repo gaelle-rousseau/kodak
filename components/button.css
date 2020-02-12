@@ -1,0 +1,20 @@
+.btn-banner {
+    color: red;
+
+    background-color: gold;
+    border-radius: 3px;
+
+    padding: 15px 30px;
+
+    text-decoration: gold;
+
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, .3);
+
+    font-weight: bold;
+}
+
+
+
+.btn-banner:hover {
+    background-color: rgb(100,100,100);
+}
